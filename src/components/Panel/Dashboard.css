@@ -1,0 +1,67 @@
+@media only screen and (min-width: 768px){
+    .chartFlex{
+        display:flex;
+        flex-direction: row;
+    }
+}
+
+/* .chartBox{
+    min-width:100rem;
+    max-height:30rem;
+} */
+
+
+*{
+    box-sizing: border-box;
+    
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    overflow:hidden;
+    flex-wrap: wrap;
+    /* align-items: center; */
+padding-top:2%;
+padding-bottom:2%;
+     justify-content: space-evenly;
+  }
+  
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 15px;
+
+    flex: 35%;
+    /* max-width: 35%; */
+  }
+  
+  .flex-item-right {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 15px;
+    flex: 35%;
+    /* max-width: 35%; */
+  }
+  
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
+
+  @media (min-width: 800px) {
+    .flex-item-right {
+        
+        max-width: 35%;
+      }
+      .flex-item-left {
+       
+        max-width: 35%;
+      }
+    }
+  
