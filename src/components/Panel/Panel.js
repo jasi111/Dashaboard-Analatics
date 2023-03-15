@@ -15,9 +15,7 @@ const adminLeftSide = () => {
             <li className="nav-item">
              <Link to="/"className="nav-link active text-success" aria-current="page">Dashboard</Link>
              </li>
-             <li className="nav-item">
-             <Link to="/panel/dashboard"className="nav-link active text-success" aria-current="page">Dashboard</Link>
-             </li>
+           
              <li className="nav-item">
             <Link to="/panel/order" className="nav-link active text-success" aria-current="page">Order</Link>
           </li>
