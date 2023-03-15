@@ -1,3 +1,15 @@
+# Data Analytics 
+
+This project is a sample which shows data analytics using React JS with Chart.js library.
+
+
+
+
+## Screenshots
+![Image-1](./readmeImages/todo1.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
