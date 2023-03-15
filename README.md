@@ -1,6 +1,6 @@
 # Data Analytics 
 
-This project is a sample which shows data analytics using React JS with Chart.js library.
+This project is a sample which shows data analytics using **React JS with Chart.js library**.
 
 
 
