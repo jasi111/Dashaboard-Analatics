@@ -6,7 +6,7 @@ This project is a sample which shows data analytics using **React JS with Chart.
 
 
 ## Screenshots
-![Image-1](./Readme-IMG.png)
+![Image-1](./readme-screen.png)
 
 
 
